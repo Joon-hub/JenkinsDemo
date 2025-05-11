@@ -12,3 +12,6 @@ This project shows how Git branches and Jenkins Pipelines work together.
    ```bash
    git clone https://your.git.server/simple-ci-demo.git
    cd simple-ci-demo
+
+
+- commit git commit -m "Add personalized greeting"
